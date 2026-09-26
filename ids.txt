@@ -1,0 +1,3 @@
+Azure Subscription ID : cbb932c9-6d01-42e7-a536-d16101e15cd6
+Application (client) ID: edd09aee-8ebc-403a-8ad3-109cbfeba8be
+Directory (tenant) ID: 8333eba7-5cf2-4615-8370-781178fe0c61
